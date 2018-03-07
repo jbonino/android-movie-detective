@@ -1,4 +1,4 @@
-<h2>The Movie Detective/h2>
+<h2>The Movie Detective</h2>
 Use the Movie Detective to get movie suggestions!
 
 PlayStore Link:
