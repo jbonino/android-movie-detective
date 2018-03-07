@@ -1,15 +1,11 @@
-# LingualApes
-Lingual Apes Portfolio, Please enjoy and stay a while
-
-
-Our first creation to be born only to android users, 
-<h2>Flick Dic</h2>
-Use Flick Dic, the Movie Detective to get movie suggestions!
+<h2>The Movie Detective/h2>
+Use the Movie Detective to get movie suggestions!
 
 PlayStore Link:
-<a href="https://play.google.com/store/apps/details?id=com.kingdinkus.actionbar"> Click here for alpha release!</a>
+<a href="https://play.google.com/store/apps/details?id=com.kingdinkus.actionbar"> Click here release!</a>
 
 Features (For those to impatient to watch a video!)
+
 <ul>
   <li>Touch Discover buttons to find the movie you want to watch</li>
   <li>That didn't help? Get Recommended Titles by searching a movie/show you liked </li>
@@ -22,9 +18,8 @@ Features (For those to impatient to watch a video!)
   <li>Stay updated on Movie News with the News Tab!</li>
  </ul>
   
-<img src="https://github.com/jbonino/LingualApes/blob/master/FlickDic/gif.gif" height="500"/>
+<img src="https://github.com/jbonino/android-movie-detective/blob/master/FlickDic/gif.gif" height="500"/>
 
 Click video below to see all its features!
 
 [![Alt text for your video](https://img.youtube.com/vi/Sqd2QrV1Tm4/0.jpg)](https://www.youtube.com/watch?v=Sqd2QrV1Tm4)
-
